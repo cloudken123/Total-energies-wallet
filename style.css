@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin:0;
+    font-family: 'SF Pro Display', sans-serif;
+                                                
+}
+
+.total{
+    margin-top: 137px;
+    margin-left: 316px;
+}
+
+.total-card{
+    margin-left: 485px;
+}
+.lower-nav{
+    margin-top: 45px;
+    display: flex;
+}
+
+.vector .vector-img{
+    Width:53px;
+    Height: 50px;
+}
+.account-ballance{
+    position: absolute;
+    /* margin-top: -1px; */
+    margin-left: 75px;
+    color: #959595;
+    font-size: 12px;
+    font-style: medium;
+    
+
+}
+
+.money{
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.debit{
+    /* padding: 5px; */
+    background-color:#E31E18;
+    width: 90px;
+    height: 39px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0;
+    margin-left: 150px;
+    
+}
+
+.debit a{
+    color: #fff;
+    text-align: center;
+    font-size: 10px;
+    line-height: 38px;
+
+}
+
+.add{
+    margin-left: 30px;
+    background-color: #53BED2;
+
+    width: 153px;
+    height: 39px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.add a{
+    color: #fff;
+    font-size: 10px;
+    line-height: 38px;
+}
+.trasactions{
+    margin-top: 50px;
+    color: #636363;
+}
+
+.debit-date{
+    margin-top: 30px;
+    font-size: 14px;
+}
+
+.debit-transation{
+    margin-top: 10px;
+    Width: 674px;
+    Height: 50px;
+    display: flex;
+    background-color:#D2EEF3;
+    border-radius: 5px;
+    color: #E31E18;
+    font-size: 14px;
+    line-height: 50px;
+}
+
+.credit-date{
+    margin-top: 30px;
+    font-size: 14px;
+}
+
+.credit-transation{
+    margin-top: 10px;
+    Width: 674px;
+    Height: 50px;
+    display: flex;
+    background-color:#D2EEF3;
+    border-radius: 5px;
+    color: #04B25F;
+    line-height: 50px;
+    font-size: 14px;
+}
+
+.debit-text{
+    margin-left: 20px;
+}
+
+.credit-text{
+    margin-left: 20px;
+}
+
+.debit-amount{
+    margin-left: 348px;
+}
+
+.credit-amount{
+    margin-left: 348px;
+}
